@@ -26,6 +26,7 @@ Datos utilizados en la primera parte del proyecto
 - date: fecha del pedido
 - revenue: ingresos del pedido
 - group: el grupo del test A/B al que pertenece el usuario
+
 /datasets/visits_us.csv Descarga el dataset
 
 - date: la fecha
