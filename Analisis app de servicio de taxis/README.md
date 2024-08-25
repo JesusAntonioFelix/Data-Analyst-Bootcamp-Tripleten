@@ -1,4 +1,4 @@
-# Proyecto: Analsis app de servicios de taxis.
+# Proyecto: Analisis app de servicios de taxis.
 
 ## Objetivo del proyecto
 
