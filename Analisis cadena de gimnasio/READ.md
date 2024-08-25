@@ -15,7 +15,7 @@ Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de 
 
 ## Descripción de datos
 
-Para el proyecto utilicé el dataset provisto por la cadena de gimnasios y contiene los siguientes datos:
+Model Fitness te aportó archivos CSV que contienen los datos sobre la cancelación de un mes en concreto e información del mes que lo precedía. El dataset incluye los siguientes campos:
 
 - 'Churn' — la cancelación para el mes en cuestión
 
