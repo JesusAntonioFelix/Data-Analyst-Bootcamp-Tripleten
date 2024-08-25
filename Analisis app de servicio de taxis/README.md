@@ -1,4 +1,4 @@
-# Proyecto 6: Analsisi app de servicios de taxis.
+# Proyecto: Analsis app de servicios de taxis.
 
 ## Objetivo del proyecto
 
