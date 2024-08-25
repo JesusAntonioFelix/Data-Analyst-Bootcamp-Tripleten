@@ -1,4 +1,4 @@
-# Proyecto: Analisis marketing
+# Proyecto: Analisis tienda en linea
 
 ## Objetivo del proyecto
 
