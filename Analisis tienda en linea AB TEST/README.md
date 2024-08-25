@@ -8,7 +8,7 @@ Es asi que se tendra priorizar estas hipótesis, lanzar un test A/B y analizar l
 
 ## Descripción de datos
 
-Datos utilizados en la primera parte del proyecto
+Datos utilizados en el proyecto
 
 /datasets/hypotheses_us.csv Descarga el dataset
 
