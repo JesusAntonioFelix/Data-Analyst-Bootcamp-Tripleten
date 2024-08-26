@@ -1,7 +1,7 @@
 # Proyecto: Estudio de restaurantes
 
 ## Objetivo del proyecto
-Se tiene como objetivo establecer un pequeno cafe en la ciudad de Los Angele spor lo cual se analiza el estado actual del mercado en la ciudad para tener los mejores insights
+Se tiene como objetivo establecer un pequeno cafe en la ciudad de Los Angeles spor lo cual se analiza el estado actual del mercado en la ciudad para tener los mejores insights
 
 ## Descripción de datos
 
