@@ -1,4 +1,4 @@
-# Proyecto : Analsisi Libros sql.
+# Proyecto : Analisis Libros sql.
 
 ## Objetivos del proyecto
 
